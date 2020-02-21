@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>310459439942-pecsn100ru5go5ijs76dfj56vjtg2ulm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.310459439942-pecsn100ru5go5ijs76dfj56vjtg2ulm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPi0W7mBoX97cC9-BuI9Euhoa92L_rbF0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310459439942</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.google.codelab.photos.sharing</string>
+	<key>PROJECT_ID</key>
+	<string>photo-fd325</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-fd325.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310459439942:ios:26f678d7b0694f9459e347</string>
+	<key>DATABASE_URL</key>
+	<string>https://photo-fd325.firebaseio.com</string>
+</dict>
+</plist>
